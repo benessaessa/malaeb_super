@@ -56,3 +56,6 @@ body{
 .textLightBlack{
     color:#333333;
 }
+.newProgress{
+    height: 0.2rem;
+}
