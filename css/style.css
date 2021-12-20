@@ -59,3 +59,44 @@ body{
 .newProgress{
     height: 0.2rem;
 }
+/* ================================= home page ===================== */
+.bgGray{
+    background-color: #F9FAFA;;
+}
+.bottomBorder{
+    border-bottom: 1px solid #C2C9D1;
+}
+.badgGreen{
+    background-color: #41AD49;
+    color: white;
+    border-radius: 14px;
+}
+.gBorder{
+    border: 1px solid #C2C9D1;
+    border-radius: 5px;
+}
+.badgePrimary{
+    background-color: #5251FF;
+    border-radius: 50%;
+    height: 28px;
+    width: 28px;
+    padding-top: 8px;
+    color: white;
+    align-self: baseline;
+}
+.badgeSecondary{
+    background-color: #C2C9D1;
+    border-radius: 50%;
+    height: 28px;
+    width: 28px;
+    padding-top: 8px;
+    color: white;
+    align-self: baseline;
+}
+.imgSponsor{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 1rem;
+}
