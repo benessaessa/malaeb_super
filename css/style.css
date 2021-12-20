@@ -21,6 +21,9 @@ body{
 .textTalbat{
     color: #FF5A00;
 }
+.textBlack{
+    color: black;
+}
 .btnTalabat{
     background-color: #5251FF;
     color: white;
@@ -60,6 +63,24 @@ body{
     height: 0.2rem;
 }
 /* ================================= home page ===================== */
+.linkMenu{
+    color: black;
+    text-decoration: none;
+}
+.linkMenuActiv{
+    background-color: #eceff2;
+    border-radius:0px 16px 16px 0px;
+    border-left: 2px solid #5251FF;
+    color: black;
+    text-decoration: none;
+}
+.linkMenu:hover{
+    background-color: #eceff2;
+    border-radius:0px 16px 16px 0px;
+    border-left: 2px solid #5251FF;
+    color: black;
+    text-decoration: none;
+}
 .bgGray{
     background-color: #F9FAFA;;
 }
@@ -99,4 +120,12 @@ body{
     border-radius: 50%;
     object-fit: cover;
     margin-right: 1rem;
+}
+.imgFull{
+    width: 100%;
+    min-height: 12.5rem;
+    object-fit: cover;
+}
+.absoluteText{
+    margin-top: -3rem;
 }
