@@ -129,3 +129,8 @@ body{
 .absoluteText{
     margin-top: -3rem;
 }
+@media screen and (max-width:767px){
+    .offcanvas-start{
+        width: 270px;
+    }
+}
