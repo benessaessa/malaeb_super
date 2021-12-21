@@ -131,6 +131,6 @@ body{
 }
 @media screen and (max-width:767px){
     .offcanvas-start{
-        width: 270px;
+        width: 290px;
     }
 }
